@@ -59,7 +59,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/subscription-tracker-api.git
+git clone https://github.com/awais-sufi/Subscription-tracker.git
 cd subscription-tracker-api
 ```
 
